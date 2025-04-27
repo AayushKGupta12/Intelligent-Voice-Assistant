@@ -41,7 +41,7 @@ Built with **Streamlit**, integrated with **Mistral AI**, and enhanced with a cu
 | ------------ | ---------------------------------- |
 | Frontend     | Streamlit, HTML + CSS (Tailwind inspired) |
 | Backend      | Python, SpeechRecognition          |
-| AI Services  | Mistral API (mistral-large-latest)  |
+| AI Services  | Mistral API (Mistral-large-language)  |
 | Deployment   | Localhost                           |
 
 ---
