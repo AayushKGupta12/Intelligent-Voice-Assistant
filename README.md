@@ -7,6 +7,15 @@ Built with **Streamlit**, integrated with **Mistral AI**, and enhanced with a cu
 
 ## 📸 Project Preview
 
+---
+---
+---
+https://www.linkedin.com/posts/aayush-kumar-gupta-2b7952219_ai-voiceassistant-mistralai-activity-7329451813051551745-MWEW?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcioCsB2Fv12hdvIP6wdvU7QcvE6UeDO84
+---
+---
+---
+
+
 ![image](https://github.com/user-attachments/assets/b9a16f8b-3399-4388-9de9-038a82d42e8b)
 
 ---
